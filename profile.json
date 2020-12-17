@@ -54,8 +54,6 @@
         {"name": "windbg.kenstheme.flare"},
         {"name": "proxycap.fireeye"},
         {"name": "windump.fireeye"},
-        {"name": "hexchat.fireeye"},
-        {"name": "pidgin.fireeye"},
         {"name": "thunderbird.fireeye"},
         {
             "name": "notepadplusplus",
@@ -71,7 +69,6 @@
         {"name": "kali_windowsbinaries.fireeye"},
         {"name": "ADRecon.fireeye"},
         {"name": "amass.docker.fireeye"},
-        {"name": "ASREPRoast.fireeye"},
         {"name": "BloodHound.fireeye"},
         {"name": "Bloodhound-Custom-Queries.fireeye"},
         {"name": "contextmenu.fireeye"},
